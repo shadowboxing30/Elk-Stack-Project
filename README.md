@@ -89,7 +89,7 @@ The final step is making sure the docker container is added on booted once the E
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-![Docker-Elk](Elk-Stack%20container.png)
+![Docker-Elk](Elk-Stack%20Container.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:
